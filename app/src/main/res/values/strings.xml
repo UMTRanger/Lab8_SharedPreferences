@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab8_SharedPreferences</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="clear_users">Clear users</string>
+</resources>
